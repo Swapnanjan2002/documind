@@ -303,14 +303,3 @@ The compiled app lands in `src/main/resources/static`, so Spring Boot serves eve
 - [ ] 🧪 Integration tests
 - [ ] ☁️ Free cloud deployment
 
----
-
-## 📸 Screenshots
-
-_Add screenshots of the UI here._
-
----
-
-## 📄 License
-
-Add a license of your choice (for example MIT).
